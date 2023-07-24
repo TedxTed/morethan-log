@@ -12,8 +12,8 @@ const CONFIG = {
   },
   projects: [
     {
-      name: `morethan-log`,
-      href: "https://github.com/morethanmin/morethan-log",
+      name: `TedxTed`,
+      href: "https://tedxted.vercel.app/",
     },
   ],
   // blog setting (required)
